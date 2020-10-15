@@ -1,0 +1,6 @@
+#ifndef DEF_RESOURCES
+#define DEF_RESOURCES
+
+1 ICON "resources/MainIcon.ico"
+
+#endif

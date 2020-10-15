@@ -1,0 +1,550 @@
+# depslib dependency file v1.0
+1517750033 source:d:\gi\programation c\hex\hex.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<time.h>
+	<math.h>
+	"hex.h"
+	"list.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110987 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326110994 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\begin_code.h
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\close_code.h
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325792434 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517750033 d:\gi\programation c\hex\hex.h
+	"list.h"
+
+1517253441 source:d:\gi\programation c\hex\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<time.h>
+	"hex.h"
+
+1512986902 d:\gi\programation c\hex\constantes.h
+
+1517233290 d:\gi\programation c\hex\hex.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<time.h>
+	<math.h>
+	"hex.h"
+
+1513477946 source:d:\gi\programation c\hex\resources.rc
+
+1515289878 d:\gi\programation c\hex\liste.h
+
+1515289622 source:d:\gi\programation c\hex\liste.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1517702221 d:\gi\programation c\hex\list.h
+
+1517673107 source:d:\gi\programation c\hex\list.c
+	<stdlib.h>
+	<stdio.h>
+	"list.h"
+
+1516835822 d:\gi\programation c\hex\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1325796794 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517708485 source:d:\gi\programation c\hex\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<time.h>
+	"menu.h"
+
+1517752788 d:\gi\programation c\hex\menu.h
+	"list.h"
+	"hex.h"
+
+1517752777 source:d:\gi\programation c\hex\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"menu.h"
+	"pvsp.h"
+	"easy.h"
+	"meduim.h"
+
+1517489714 d:\gi\programation c\hex\hard.h
+
+1517667067 source:d:\gi\programation c\hex\hard.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"hard.h"
+	"list.h"
+	"hex.h"
+
+1517753963 source:d:\gi\programation c\hex\easy.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"easy.h"
+	"pvsp.h"
+	"hex.h"
+
+1517751169 d:\gi\programation c\hex\easy.h
+	"list.h"
+
+1517753910 source:d:\gi\programation c\hex\meduim.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"meduim.h"
+	"list.h"
+	"hex.h"
+
+1517672138 d:\gi\programation c\hex\meduim.h
+	"list.h"
+
+1517752771 d:\gi\programation c\hex\pvsp.h
+	"list.h"
+
+1517753729 source:d:\gi\programation c\hex\pvsp.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"pvsp.h"
+	"menu.h"
+	"hex.h"
+
+1517774491 source:d:\gi\programation c\hex - copy (2)\easy.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"easy.h"
+	"play.h"
+	"hex.h"
+
+1517751169 d:\gi\programation c\hex - copy (2)\easy.h
+	"list.h"
+
+1517702221 d:\gi\programation c\hex - copy (2)\list.h
+
+1517774329 d:\gi\programation c\hex - copy (2)\hex.h
+	"list.h"
+	"menu.h"
+
+1517777255 source:d:\gi\programation c\hex - copy (2)\hex.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<math.h>
+	"hex.h"
+	"list.h"
+
+1517673107 source:d:\gi\programation c\hex - copy (2)\list.c
+	<stdlib.h>
+	<stdio.h>
+	"list.h"
+
+1517708485 source:d:\gi\programation c\hex - copy (2)\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<time.h>
+	"menu.h"
+
+1517752788 d:\gi\programation c\hex - copy (2)\menu.h
+	"list.h"
+	"hex.h"
+
+1517774844 source:d:\gi\programation c\hex - copy (2)\meduim.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"meduim.h"
+	"list.h"
+	"hex.h"
+
+1517775347 d:\gi\programation c\hex - copy (2)\meduim.h
+	"list.h"
+
+1517780445 source:d:\gi\programation c\hex - copy (2)\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"menu.h"
+	"play.h"
+	"ia.h"
+
+1513477946 source:d:\gi\programation c\hex - copy (2)\resources.rc
+
+1517787536 d:\gi\programation c\hex - copy (2)\play.h
+	"list.h"
+
+1517787446 source:d:\gi\programation c\hex - copy (2)\play.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"play.h"
+	"menu.h"
+	"hex.h"
+
+1517780445 source:d:\gi\programation c\hex - copy (2)\ia.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"IA.h"
+	"play.h"
+	"hex.h"
+
+1517775496 d:\gi\programation c\hex - copy (2)\ia.h
+	"list.h"
+
+1517777255 source:d:\desktop\projet hex\hex.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<math.h>
+	"hex.h"
+	"list.h"
+
+1517774329 d:\desktop\projet hex\hex.h
+	"list.h"
+	"menu.h"
+
+1517702221 d:\desktop\projet hex\list.h
+
+1517752788 d:\desktop\projet hex\menu.h
+	"list.h"
+	"hex.h"
+
+1517787783 source:d:\desktop\projet hex\ia.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"IA.h"
+	"play.h"
+	"hex.h"
+
+1517775496 d:\desktop\projet hex\ia.h
+	"list.h"
+
+1517787536 d:\desktop\projet hex\play.h
+	"list.h"
+
+1517673107 source:d:\desktop\projet hex\list.c
+	<stdlib.h>
+	<stdio.h>
+	"list.h"
+
+1517708485 source:d:\desktop\projet hex\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<time.h>
+	"menu.h"
+
+1517780445 source:d:\desktop\projet hex\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"menu.h"
+	"play.h"
+	"ia.h"
+
+1513477946 source:d:\desktop\projet hex\resources.rc
+
+1517787832 source:d:\desktop\projet hex\play.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"play.h"
+	"menu.h"
+	"hex.h"
+
+1517673107 source:d:\gi\programation c\chrabi\projet\2018_projetc_1gi_settaiyassine\projet hex\list.c
+	<stdlib.h>
+	<stdio.h>
+	"list.h"
+
+1517702221 d:\gi\programation c\chrabi\projet\2018_projetc_1gi_settaiyassine\projet hex\list.h
+
+1517708485 source:d:\gi\programation c\chrabi\projet\2018_projetc_1gi_settaiyassine\projet hex\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<time.h>
+	"menu.h"
+
+1521104029 d:\gi\programation c\chrabi\projet\2018_projetc_1gi_settaiyassine\projet hex\menu.h
+	"list.h"
+	"hex.h"
+
+1518185945 d:\gi\programation c\chrabi\projet\2018_projetc_1gi_settaiyassine\projet hex\hex.h
+	"list.h"
+	"menu.h"
+
+1513477946 source:d:\gi\programation c\chrabi\projet\2018_projetc_1gi_settaiyassine\projet hex\resources.rc
+
+1518185945 source:d:\gi\programation c\chrabi\projet\2018_projetc_1gi_settaiyassine\projet hex\hex.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<math.h>
+	"hex.h"
+	"list.h"
+
+1518185656 source:d:\gi\programation c\chrabi\projet\2018_projetc_1gi_settaiyassine\projet hex\ia.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"IA.h"
+	"play.h"
+	"hex.h"
+
+1518136404 d:\gi\programation c\chrabi\projet\2018_projetc_1gi_settaiyassine\projet hex\ia.h
+	"list.h"
+
+1518183705 d:\gi\programation c\chrabi\projet\2018_projetc_1gi_settaiyassine\projet hex\play.h
+	"list.h"
+
