@@ -1,8 +1,7 @@
 # Hex Game
 
-*Introduction*
-
 Hex is a strategy board game for two players played on a hexagonal grid, theoretically of any size. Players alternate placing markers or stones on unoccupied spaces in an attempt to link their opposite sides of the board in an unbroken chain. One player must win; there are no draws.
+
 This project is an impelemtation of Hex game on 9x9 board with 2 modes (Player vs player and Player AI).
 
 ## Preview
@@ -47,7 +46,7 @@ https://www.libsdl.org/projects/SDL_image
 This project can be cloned from this link
 
 ```
-Link
+https://github.com/settai/HexGame.git
 ```
 
 ### 2. Running or modifying this project
